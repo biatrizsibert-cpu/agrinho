@@ -11,4 +11,26 @@ header{
 }   
     header{ 
          height: 34px;
+         text-align:center;   
+         font-family:sans-serif;
+        
+        }  
+
+
+        img{ 
+            width: 300px;
+            heigh: 180px;
+        }
+
+        footer{
+             background-color: rgb(0, 0, 0);
+             text-align: center;
+             color: rgb(255, 255, 255)lç [´b ];
+             position: fixed;
+             width:100%
+    }
+
+        main{
+           background-color:gainsboro;
+           width: 70%;
      }
